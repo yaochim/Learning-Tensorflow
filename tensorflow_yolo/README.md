@@ -33,3 +33,5 @@ Anything to look out for here
 ## Resources
 
 Some helpful resources that helped me.
+https://www.youtube.com/watch?v=Zsd_HCvdrRA
+https://github.com/theAIGuysCode/yolo-v3
